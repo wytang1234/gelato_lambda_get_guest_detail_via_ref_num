@@ -1,0 +1,7 @@
+{
+  "hotel_id": "1",
+  "ref_number": "1",
+  "headers": {
+	  "staffToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdGFmZl9pZCI6MSwiZmlyc3RfbmFtZSI6IlQiLCJsYXN0X25hbWUiOiJXWSIsInJvbGVfbmFtZSI6ImFkbWluIiwic3RhZmZfbnVtYmVyIjoiUzAwMDEifQ.5MkS_u2QPW5SFuzTd6Xsv9SMYpkH3U_nKfm_o3zBRh0"
+  }
+}
